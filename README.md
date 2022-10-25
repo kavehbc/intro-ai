@@ -26,4 +26,10 @@ jupyter lab
 ```
 
 ___
-## Contents
+## Table of Contents
+
+### Constraint Statisfaction Problem
+#### 8-Queens Puzzle
+
+`/code/csp-8-queen.py`: This would solve the 8-Queens Problem using backtracking method.
+
