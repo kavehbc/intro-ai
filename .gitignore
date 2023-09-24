@@ -1,9 +1,4 @@
 # local files #
-data/*.csv
-data/*.pkl
-models/dev/*.pkl
-models/prod/*.pkl
-models/optuna/*.db
 # catboost files
 catboost_info/
 # Sphinx and mkdoc documentation #
