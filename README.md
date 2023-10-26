@@ -18,13 +18,7 @@ Once the environment is created, activate the environment before running the scr
 conda activate ai
 ```
 
-Now, you can run the scripts:
-
-```bash
-python code/csp-8-queen.py
-```
-
-or run Jupyter Lab for the Jupyter Notebooks (*.ipynb).
+Then run Jupyter Lab for the Jupyter Notebooks (*.ipynb).
 
 ```bash
 jupyter lab
@@ -33,8 +27,11 @@ jupyter lab
 ___
 ## Table of Codes
 
+### Breadth First Search
+- BFS (`/notebooks/01-breadth-first-search.ipynb`): This is breadth first search algorithm on a graph.
+
 ### Constraint Statisfaction Problem
-- 8-Queens Puzzle (`/code/csp-8-queen.py`): This solves the 8-Queens Problem using Backtracking method.
+- 8-Queens Puzzle (`/notebooks/10-csp-8-queen.ipynb`): This solves the 8-Queens Problem using Backtracking method.
 
 ___
 ## Instructor/Developer(s)
